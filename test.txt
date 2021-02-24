@@ -1,2 +1,4 @@
+This is the zeroth line.
+
 This is the first line for my file.
 
